@@ -1,10 +1,15 @@
 <!DOCTYPE html>
-<html lang="hu" style="background-image: url(SOFT.jpg)">
-    <head>
-        <title>Ubisoft Fan page</title>
-        <h1 style="text-align: center;"> Ubisoft Fan Page</h1>        
-    </head>
-    <body>
-       <p> </p> 
-    </body>
+<html lang="hu">
+<head>
+    <title>Nike</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Nike Inc.</h1>
+    <h2 style="text-align: left;"> Bevezető, a cég kezedete:</h2>
+    <p>A Nike, Inc. vagy röviden Nike a világ első számú edzőcipő-, sportruházat- és sportszergyártója.<br> Az amerikai székhelyű vállalatot Nikéről, a győzelem görög istennőjéről nevezték el. Termékeit a Nike, Cortez, Nike Golf, Nike Pro, Air Jordan, Team Starter, valamint leányai márkanevei alatt forgalmazza.<br> Az alapító Phil Knight. Üzlettársa és korábbi edzője Bill Bowerman, a konyhájában, egy gofrisütő segítségével készítette első cipőit tanítványainak.<br> Rájött arra, hogy ha könnyebb a cipő talpa, akkor a futók jobb teljesítményt tudnak elérni. Steve „Pre” Prefontaine hosszútávfutó volt az edző egyik tanítványa. </p>
+    <h2>Hogyan jött letre a jellegzetes Nike logó?:</h2>
+    <p>A cég egyik első alkalmazottja, Jeff Johnson egy éjjel Nikével álmodott (aki a győzelem görög istennője), ezért ezt a nevet javasolta a gyorsan fejlődő cég számára.<br> Phillip Knight, a cég társalapítója és elnöke ugyan a Dimension 6 nevet ajánlotta, de Johnson ötlete győzött.<br> Ezt követően Knight 1971-ben megkérte egyik volt diákját, Carolyn Davidsont, hogy tervezze meg a logót, ami a futócipők oldalán is elhelyezhető.<br> Ekkor született meg a Nike „pipa”, ami Niké szárnyát szimbolizálja. Knight 35 dollárt fizetett a tervekért.<br> Tizenkét év múlva a Nike cég egy gyémántgyűrűt adományozott Carolyn Davidsonnak, rajta az általa tervezett logóval, valamint ismeretlen számú részvényeket is. </p>
+    <h2>Az egyik leghíresebb almárka: Air Jordan:</h2>
+    <p></p>
+</body>
 </html>
